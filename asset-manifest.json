@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://fes-too.github.io/csb-3y4kuo/static/js/main.04110e1b.chunk.js",
+    "main.js.map": "https://fes-too.github.io/csb-3y4kuo/static/js/main.04110e1b.chunk.js.map",
+    "runtime-main.js": "https://fes-too.github.io/csb-3y4kuo/static/js/runtime-main.43bc1621.js",
+    "runtime-main.js.map": "https://fes-too.github.io/csb-3y4kuo/static/js/runtime-main.43bc1621.js.map",
+    "static/js/2.afccd033.chunk.js": "https://fes-too.github.io/csb-3y4kuo/static/js/2.afccd033.chunk.js",
+    "static/js/2.afccd033.chunk.js.map": "https://fes-too.github.io/csb-3y4kuo/static/js/2.afccd033.chunk.js.map",
+    "index.html": "https://fes-too.github.io/csb-3y4kuo/index.html",
+    "precache-manifest.eb0e2a4dc1c71a910c4c7faf526d3dfd.js": "https://fes-too.github.io/csb-3y4kuo/precache-manifest.eb0e2a4dc1c71a910c4c7faf526d3dfd.js",
+    "service-worker.js": "https://fes-too.github.io/csb-3y4kuo/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43bc1621.js",
+    "static/js/2.afccd033.chunk.js",
+    "static/js/main.04110e1b.chunk.js"
+  ]
+}
